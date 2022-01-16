@@ -1,2 +1,2 @@
 # CV
-My personal website(Pure HTML)
+My personal website(HTML&CSS)
