@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(215, 164, 240);
+}
+
+hr {
+    background-color: rgb(215, 164, 240);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: whitesmoke;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: rgb(130, 47, 172);
+    text-shadow: 2px 0px 5px rgb(158, 0, 250);
+}
+
+h3 {
+    color: rgb(130, 47, 172);
+    text-shadow: 2px 0px 5px rgb(158, 0, 250);
+    
+}
+
+p {
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
