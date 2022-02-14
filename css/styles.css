@@ -16,13 +16,25 @@ h1 {
     text-shadow: 2px 0px 5px rgb(158, 0, 250);
 }
 
-h3 {
-    color: rgb(130, 47, 172);
-    text-shadow: 2px 0px 5px rgb(158, 0, 250);
-    
+h1:hover {
+    font-size: 300%;
 }
 
+h3 {
+    color: rgb(130, 47, 172);
+    text-shadow: 2px 0px 5px rgb(158, 0, 250);   
+}
+
+h3:hover {
+    font-size: 200%;
+}
 p {
     text-shadow: 2px 2px 6px rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.MINE:hover {
+    -webkit-filter: grayscale(100%) blur(3px);
+    filter: grayscale(100%) blur(3px);
+}
+
